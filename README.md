@@ -2,7 +2,7 @@
 
 Welcome to the official repository of the website for the Local Restaurant "La Trova" 🍽️
 
-<img align="left" alt="coding!" width=300 src="https://github.com/matiaspiccirilli/Resturant-BokingSite-Reactjs-MUI/blob/main/src/images/chhola.jpg?raw=true" position="left">
+<img align="left" alt="coding!" width=300 src="https://github.com/matiaspiccirilli/Table-Booking-website/blob/main/src/images/chhola.jpg?raw=true" position="left">
 
 ## About
 
@@ -23,7 +23,7 @@ This repository contains the source code for the website of the Local Restaurant
 - **Creative Cooking**: Our team of chefs is constantly innovating to surprise you with new flavors.
 - **Personalized Service**: We take pride in offering friendly and attentive service to every guest.
 
-<img align="right" alt="coding!" width=300 src="https://github.com/matiaspiccirilli/Resturant-BokingSite-Reactjs-MUI/blob/main/src/images/paneer.jpg?raw=true" position="right">
+<img align="right" alt="coding!" width=300 src="https://github.com/matiaspiccirilli/Table-Booking-website/blob/main/src/images/paneer.jpg?raw=true" position="right">
 
 ## Getting Started
 
